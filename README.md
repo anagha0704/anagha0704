@@ -22,12 +22,12 @@
 ---
 
 ### 📌 Featured Projects 
-🌟 **[Scholar Success Fund](https://github.com/anagha0704/Scholar_Success_Fund)** – Advanced Database System for Financial Aid  
-🌟 **[Cloud Optimization Engine](https://github.com/anagha0704/Cloud_Optimization_Engine)** – Django-based platform for intelligent cloud resource allocation and cost optimization
+🌟 **[Scholar Success Fund](https://github.com/anagha0704/Scholar_Success_Fund)** – Advanced Database System for Financial Aid   
+🌟 **[Cloud Optimization Engine](https://github.com/anagha0704/Cloud_Optimization_Engine)** – Django-based platform for intelligent cloud resource allocation and cost optimization  
 🌟 **[School Similarity Matcher](https://github.com/anagha0704/School-Similarity-Matcher-for-Phoenix-city)** – ML model for recommending similar schools in Phoenix city  
-🌟 **[Distributed Database Simulation](https://github.com/anagha0704/Distributed_Database_Simulation)** – Python-based system simulating distributed database operations
+🌟 **[Distributed Database Simulation](https://github.com/anagha0704/Distributed_Database_Simulation)** – Python-based system simulating distributed database operations  
 🌟 **[Email Encryption App](https://github.com/anagha0704/Asymmetric_Email_Encryption_Application)** – Secure email encryption using asymmetric cryptography  
-🌟 **[Exploring the Airbnb Universe](https://github.com/anagha0704/Tableau-Dashboard-Project)** – A Tableau Data Visualization
+🌟 **[Exploring the Airbnb Universe](https://github.com/anagha0704/Tableau-Dashboard-Project)** – A Tableau Data Visualization  
 
 ---
 
