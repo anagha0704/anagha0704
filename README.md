@@ -34,7 +34,7 @@
 ### 🔍 Currently working on..
 - Improving my problem-solving skills on [Leetcode](https://leetcode.com/u/anaghanavale0704/)
 - Earning the **AWS Academy Cloud Architecting** badge
-- Working on System Design skills
+- Working on understanding and implementing Low Level Design Patterns
 
 ---
 
