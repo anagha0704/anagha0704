@@ -22,6 +22,8 @@
 ---
 
 ### 📌 Featured Projects 
+🌟 **[Scalable Crypto Data Engineering Pipeline](https://github.com/anagha0704/Scalable_Crypto_Data_Engineering_Pipeline)** – Scalable crypto data pipeline using AWS Lambda, Glue, S3, and Snowflake 
+<br>
 🌟 **[Scholar Success Fund](https://github.com/anagha0704/Scholar_Success_Fund)** – Advanced Database System for Financial Aid   
 🌟 **[Cloud Optimization Engine](https://github.com/anagha0704/Cloud_Optimization_Engine)** – Django-based platform for intelligent cloud resource allocation and cost optimization  
 🌟 **[School Similarity Matcher](https://github.com/anagha0704/School-Similarity-Matcher-for-Phoenix-city)** – ML model for recommending similar schools in Phoenix city  
