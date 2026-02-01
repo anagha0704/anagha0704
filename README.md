@@ -5,8 +5,8 @@
 🚀 **Software Engineer | Data Engineering & Analytics | Experience building database systems, ML matching tools, and secure applications**  
 
 🎓 Master of Science in Information Technology @ **ASU**  
-💻 Ex-Software Engineer Intern  @ **Intradiem**  
-💻 Former Software Engineer Intern  @ **Capgemini**   
+💻 Ex-Software Engineer Intern @ **Intradiem**  
+💻 Former Software Engineer @ **Capgemini**   
 
 ---
 
