@@ -29,6 +29,7 @@
 🌟 **[School Similarity Matcher](https://github.com/anagha0704/School-Similarity-Matcher-for-Phoenix-city)** – Built a machine learning-driven school similarity recommendation tool for Phoenix area, enhancing data-informed decision support  
 🌟 **[Distributed Database Simulation](https://github.com/anagha0704/Distributed_Database_Simulation)** – Python-based system simulating distributed database operations  
 🌟 **[Email Encryption App](https://github.com/anagha0704/Asymmetric_Email_Encryption_Application)** – Developed a Python application implementing asymmetric cryptography to encrypt/decrypt email content securely
+<br>
 🌟 **[Exploring the Airbnb Universe](https://github.com/anagha0704/Tableau-Dashboard-Project)** – Produced interactive Tableau dashboards to explore key trends and insights in Airbnb datasets  
 
 ---
