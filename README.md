@@ -2,7 +2,7 @@
 
 ## I'm Anagha!
 
-🚀 **Aspiring Software Engineer | Open to Software Engineering, Data Engineering & Analytics Roles**  
+🚀 **Software Engineer | Data Engineering & Analytics | Experience building database systems, ML matching tools, and secure applications**  
 
 🎓 Master of Science in Information Technology @ **ASU**  
 💻 Ex-Software Engineer Intern  @ **Intradiem**  
@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Programming Languages:** Python, C++, Java, SQL, R, HTML/CSS
+- **Programming Languages:** Python, C++, Java, SQL, R
 - **Frameworks & Libraries:** Pandas, NumPy, SciPy, Matplotlib, Django, Docker, Postman, IntelliJ, Unix/Linux
 - **Databases:** PostgreSQL, Microsoft SQL Server, MySQL, Oracle, NoSQL
 - **Cloud, APIs & DevOps:** AWS, RESTful APIs, Swagger
@@ -24,18 +24,18 @@
 ### 📌 Featured Projects 
 🌟 **[Scalable Crypto Data Engineering Pipeline](https://github.com/anagha0704/Scalable_Crypto_Data_Engineering_Pipeline)** – Scalable crypto data pipeline using AWS Lambda, Glue, S3, and Snowflake 
 <br>
-🌟 **[Scholar Success Fund](https://github.com/anagha0704/Scholar_Success_Fund)** – Advanced Database System for Financial Aid   
+🌟 **[Scholar Success Fund](https://github.com/anagha0704/Scholar_Success_Fund)** – Designed and implemented a standards-compliant database system to manage scholarship and educational loan data with transactional integrity   
 🌟 **[Cloud Optimization Engine](https://github.com/anagha0704/Cloud_Optimization_Engine)** – Django-based platform for intelligent cloud resource allocation and cost optimization  
-🌟 **[School Similarity Matcher](https://github.com/anagha0704/School-Similarity-Matcher-for-Phoenix-city)** – ML model for recommending similar schools in Phoenix city  
+🌟 **[School Similarity Matcher](https://github.com/anagha0704/School-Similarity-Matcher-for-Phoenix-city)** – Built a machine learning-driven school similarity recommendation tool for Phoenix area, enhancing data-informed decision support  
 🌟 **[Distributed Database Simulation](https://github.com/anagha0704/Distributed_Database_Simulation)** – Python-based system simulating distributed database operations  
-🌟 **[Email Encryption App](https://github.com/anagha0704/Asymmetric_Email_Encryption_Application)** – Secure email encryption using asymmetric cryptography  
-🌟 **[Exploring the Airbnb Universe](https://github.com/anagha0704/Tableau-Dashboard-Project)** – A Tableau Data Visualization  
+🌟 **[Email Encryption App](https://github.com/anagha0704/Asymmetric_Email_Encryption_Application)** – Developed a Python application implementing asymmetric cryptography to encrypt/decrypt email content securely
+🌟 **[Exploring the Airbnb Universe](https://github.com/anagha0704/Tableau-Dashboard-Project)** – Produced interactive Tableau dashboards to explore key trends and insights in Airbnb datasets  
 
 ---
 
 ### 🔍 Currently working on..
-- Improving my problem-solving skills on [Leetcode](https://leetcode.com/u/anaghanavale0704/)
-- Earning the **AWS Academy Cloud Architecting** badge
+- Strengthening algorithmic problem solving through targeted practice on real technical challenges (e.g., [Leetcode](https://leetcode.com/u/anaghanavale0704/))
+- Pursuing **AWS Academy Cloud Architecting badge** to deepen practical cloud design skills
 - Working on understanding and implementing [Low Level Design Patterns](https://github.com/anagha0704/LLD_Design_Patterns)
 
 ---
